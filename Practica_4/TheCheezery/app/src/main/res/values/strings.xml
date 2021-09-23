@@ -1,0 +1,22 @@
+<resources>
+    <!--Strings pantalla principal-->
+    <string name="app_name">TheCheezery</string>
+    <string name="welcome_text">Welcome to the Cheezery!</string>
+    <string name="welcome_description">Home of the most wonderful dessert ever seen (and tasted) by the human being.</string>
+    <string name="button_start">get started</string>
+    <!--Strings pantalla de registro-->
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="terms">I have read and accept terms and conditions of the Cheezery</string>
+    <string name="sing_in">Sing_in</string>
+    <!--Strings pantalla de menu-->
+    <string name="our_menu">Our menu</string>
+    <string name="cold_drinks">Cold drinks</string>
+    <string name="hot_drinks">Hot drinks</string>
+    <string name="sweets">Sweets</string>
+    <string name="salties">Salties</string>
+    <string name="combos">Combos</string>
+    <string name="customs">Customs</string>
+</resources>
